@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/3BFreelance/static/css/main.c8612331.css",
+    "main.js": "/3BFreelance/static/js/main.43ef176e.js",
+    "static/media/logo3b.png": "/3BFreelance/static/media/logo3b.8b0b1b327a0e0aa95b18.png",
+    "index.html": "/3BFreelance/index.html",
+    "main.c8612331.css.map": "/3BFreelance/static/css/main.c8612331.css.map",
+    "main.43ef176e.js.map": "/3BFreelance/static/js/main.43ef176e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8612331.css",
+    "static/js/main.43ef176e.js"
+  ]
+}
